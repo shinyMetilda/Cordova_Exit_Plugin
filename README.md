@@ -5,8 +5,7 @@ Add file AppTerminate.cs to your platforms/wp8/Plugins folder
 
 
 STEP2:
-Edit Your platforms/wp8/config.xml and add the following code
-
+Edit Your platforms/wp8/config.xml and add the following code:
 <feature name="AppTerminate">
   <param name="wp-package" value="AppTerminate" />
 </feature>
